@@ -39,7 +39,7 @@ def func(A,t): #A = [x, y, Vx, Vy]
     
 
 m1 = 2 * 10**30 #kg massa do sol
-m2 = (2 * 11**10)*m1*200000   #kg massa de cg
+m2 = (2 * 11**10)*m1  #kg massa de cg
 #m3 =(2*11**11)*m1
 
 #Condicões inicias
